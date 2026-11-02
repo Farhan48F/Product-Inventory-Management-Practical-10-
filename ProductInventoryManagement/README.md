@@ -98,5 +98,10 @@ The application creates `inventory.log` when operations are performed. This gene
 The test suite contains eight tests covering successful calculations, valid discounts, available and insufficient stock, negative values, invalid quantity types, and out-of-range discounts.
 
 
-Output:
+_______________________
+
+Name - Syed Farhan Ali
+Rollno - 48
+Course - MCA
+
 
