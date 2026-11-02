@@ -1,0 +1,63 @@
+2026-11-02 11:48:11,733 - INFO - Processing order ORD101
+2026-11-02 11:48:11,733 - DEBUG - Validating order amount for order ORD101
+2026-11-02 11:48:11,733 - INFO - Order ORD101 processed successfully
+2026-11-02 11:48:11,733 - INFO - Processing order ORD102
+2026-11-02 11:48:11,733 - WARNING - Order ORD102 has a low order amount: 50
+2026-11-02 11:48:11,733 - DEBUG - Validating order amount for order ORD102
+2026-11-02 11:48:11,733 - INFO - Order ORD102 processed successfully
+2026-11-02 11:48:11,733 - INFO - Processing order ORD103
+2026-11-02 11:48:11,733 - ERROR - Order ORD103 has an invalid amount: -10
+2026-11-02 11:48:34,721 - INFO - Processing order ORD101
+2026-11-02 11:48:34,721 - DEBUG - Validating order amount for order ORD101
+2026-11-02 11:48:34,721 - INFO - Order ORD101 processed successfully
+2026-11-02 11:48:34,721 - INFO - Processing order ORD102
+2026-11-02 11:48:34,721 - WARNING - Order ORD102 has a low order amount: 50
+2026-11-02 11:48:34,721 - DEBUG - Validating order amount for order ORD102
+2026-11-02 11:48:34,721 - INFO - Order ORD102 processed successfully
+2026-11-02 11:48:34,721 - INFO - Processing order ORD103
+2026-11-02 11:48:34,721 - ERROR - Order ORD103 has an invalid amount: -10
+2026-11-02 11:54:14,229 - INFO - Calculating total price
+2026-11-02 11:54:14,229 - DEBUG - Price: 500, Quantity: 2
+2026-11-02 11:54:14,229 - INFO - Total price calculated successfully: 1000
+2026-11-02 11:54:14,229 - INFO - Applying discount
+2026-11-02 11:54:14,229 - DEBUG - Discount amount: 100.0
+2026-11-02 11:54:14,229 - INFO - Discount applied successfully: 900.0
+2026-11-02 11:54:14,229 - INFO - Checking product stock
+2026-11-02 11:54:14,229 - DEBUG - Stock validation completed
+2026-11-02 11:54:14,229 - INFO - Stock is available
+2026-11-02 11:54:46,309 - INFO - Calculating total price
+2026-11-02 11:54:46,309 - DEBUG - Price: 500, Quantity: 2
+2026-11-02 11:54:46,309 - INFO - Total price calculated successfully: 1000
+2026-11-02 11:54:46,309 - INFO - Applying discount
+2026-11-02 11:54:46,309 - DEBUG - Discount amount: 100.0
+2026-11-02 11:54:46,309 - INFO - Discount applied successfully: 900.0
+2026-11-02 11:54:46,309 - INFO - Checking product stock
+2026-11-02 11:54:46,309 - DEBUG - Stock validation completed
+2026-11-02 11:54:46,309 - INFO - Stock is available
+2026-11-02 11:55:31,672 - INFO - Calculating total price
+2026-11-02 11:55:31,672 - DEBUG - Price: 500, Quantity: 2
+2026-11-02 11:55:31,672 - INFO - Total price calculated successfully: 1000
+2026-11-02 11:55:31,672 - INFO - Applying discount
+2026-11-02 11:55:31,672 - DEBUG - Discount amount: 100.0
+2026-11-02 11:55:31,672 - INFO - Discount applied successfully: 900.0
+2026-11-02 11:55:31,672 - INFO - Checking product stock
+2026-11-02 11:55:31,672 - DEBUG - Stock validation completed
+2026-11-02 11:55:31,672 - INFO - Stock is available
+2026-11-02 11:56:57,556 - INFO - Calculating total price
+2026-11-02 11:56:57,556 - DEBUG - Price: 500, Quantity: 2
+2026-11-02 11:56:57,556 - INFO - Total price calculated successfully: 1000
+2026-11-02 11:56:57,556 - INFO - Applying discount
+2026-11-02 11:56:57,556 - DEBUG - Discount amount: 100.0
+2026-11-02 11:56:57,556 - INFO - Discount applied successfully: 900.0
+2026-11-02 11:56:57,556 - INFO - Checking product stock
+2026-11-02 11:56:57,556 - DEBUG - Stock validation completed
+2026-11-02 11:56:57,556 - INFO - Stock is available
+2026-11-02 13:36:32,077 - INFO - Processing order ORD101
+2026-11-02 13:36:32,077 - DEBUG - Validating order amount for order ORD101
+2026-11-02 13:36:32,077 - INFO - Order ORD101 processed successfully
+2026-11-02 13:36:32,077 - INFO - Processing order ORD102
+2026-11-02 13:36:32,077 - WARNING - Order ORD102 has a low order amount: 50
+2026-11-02 13:36:32,077 - DEBUG - Validating order amount for order ORD102
+2026-11-02 13:36:32,077 - INFO - Order ORD102 processed successfully
+2026-11-02 13:36:32,077 - INFO - Processing order ORD103
+2026-11-02 13:36:32,077 - ERROR - Order ORD103 has an invalid amount: -10

@@ -1,0 +1,9 @@
+2026-11-02 13:27:22,693 - INFO - Calculating total price
+2026-11-02 13:27:22,693 - DEBUG - Price: 500, Quantity: 2
+2026-11-02 13:27:22,693 - INFO - Total price calculated successfully: 1000
+2026-11-02 13:27:22,693 - INFO - Applying discount
+2026-11-02 13:27:22,693 - DEBUG - Discount amount: 100.0
+2026-11-02 13:27:22,693 - INFO - Discount applied successfully: 900.0
+2026-11-02 13:27:22,693 - INFO - Checking product stock
+2026-11-02 13:27:22,693 - DEBUG - Stock validation completed
+2026-11-02 13:27:22,693 - INFO - Stock is available
